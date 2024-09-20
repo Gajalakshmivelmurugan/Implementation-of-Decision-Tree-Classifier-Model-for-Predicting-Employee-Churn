@@ -71,6 +71,7 @@ accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
+
 ## Output:
 ![322719919-881c91dd-e1b0-43c4-8e8c-c02819e7af2f](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144871940/f5a809b7-d3d8-43a0-bf52-8adf210bfb67)
 ![322720014-048f14a5-56cd-4879-8696-c87db2bff1ff](https://github.com/Gajalakshmivelmurugan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144871940/218905e6-7618-4521-86df-4dfed8fa65ad)
