@@ -71,7 +71,6 @@ Accuracy:
 ![369327110-b9b1dd85-7b53-4299-beda-b04dd0b7b9d3](https://github.com/user-attachments/assets/1681e31a-c1e9-4772-b5a8-df9b39fe5a90)
 Predict:
 ![369327349-1b084a37-90af-4668-8285-51097e9ec346](https://github.com/user-attachments/assets/5ae05d12-542e-44a9-a340-dcd187318286)
-![369327349-1b084a37-90af-4668-8285-51097e9ec346](https://github.com/user-attachments/assets/031eafef-6d06-467c-9f60-30db690ec0bd)
 
 
 ## Result:
