@@ -67,9 +67,13 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 Data:
 ![369327006-28c5a398-7f32-4b79-acd0-ec36a2c76c60](https://github.com/user-attachments/assets/e9781bb2-f758-40fb-b45b-50e809f1893b)
+
 Accuracy:
+
 ![369327110-b9b1dd85-7b53-4299-beda-b04dd0b7b9d3](https://github.com/user-attachments/assets/1681e31a-c1e9-4772-b5a8-df9b39fe5a90)
+
 Predict:
+
 ![369327349-1b084a37-90af-4668-8285-51097e9ec346](https://github.com/user-attachments/assets/5ae05d12-542e-44a9-a340-dcd187318286)
 
 
